@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-i there, I'm [Your Name] 👋  
+## Hi there 👋 I'm Mounika  
 
 I'm a **Data Engineer | Cloud Enthusiast | Python Developer** passionate about building scalable systems and working with data. I specialize in **Python, Spark, AWS, and Databases**.  
 
@@ -18,4 +15,3 @@ I once optimized a Spark job that ran for 2 hours down to **15 minutes!**
 
  📬 You can reach me at davulurimounika22@gmail.com
 
--->
