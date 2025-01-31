@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**Mounika766181/Mounika766181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i there, I'm [Your Name] 👋  
 
-Here are some ideas to get you started:
+I'm a **Data Engineer | Cloud Enthusiast | Python Developer** passionate about building scalable systems and working with data. I specialize in **Python, Spark, AWS, and Databases**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 I'm currently pursued a **Master's Degree** in Computer Science.
+- 💻 I enjoy building **scalable applications** and **data pipelines**.
+- 🌱 I’m constantly learning new technologies and improving my skill set.
+- 📚 I enjoy sharing knowledge, so I often contribute to **open-source projects**.
+-🔥 Transforming raw data into meaningful insights  
+⚡ Automating workflows with Python & Apache Airflow  
+☁️ Building cloud-native solutions on AWS & Azure 
+
+💡 **Fun Fact:**  
+I once optimized a Spark job that ran for 2 hours down to **15 minutes!**  
+
+ 📬 You can reach me at davulurimounika22@gmail.com
+
 -->
