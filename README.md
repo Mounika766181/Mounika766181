@@ -2,7 +2,7 @@
 
 I'm a **Data Engineer | Cloud Enthusiast | Python Developer** passionate about building scalable systems and working with data. I specialize in **Python, Spark, AWS, and Databases**.  
 
-🎓 I'm currently pursued a **Master's Degree** in Computer Science.
+🎓 Pursed a **Master's Degree** in Computer Science.
 - 💻 I enjoy building **scalable applications** and **data pipelines**.
 - 🌱 I’m constantly learning new technologies and improving my skill set.
 - 📚 I enjoy sharing knowledge, so I often contribute to **open-source projects**.
