@@ -15,3 +15,7 @@ I once optimized a Spark job that ran for 2 hours down to **15 minutes!**
 
  📬 You can reach me at davulurimounika22@gmail.com
 
+# Main Technologies I Work With
+- **Programming:** Python, Go, SQL  
+- **Data Engineering:** Spark, Kafka, Snowflake  
+- **Cloud Platforms:** AWS, Azure
