@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mounika  
 
-I'm a **Data Engineer | Cloud Enthusiast | Python Developer** passionate about building scalable systems and working with data. I specialize in **Python, Spark, AWS, and Databases**.  
+I'm a **Data Engineer | Cloud Enthusiast | Python Developer** passionate about building scalable systems and working with data. I specialize in **Python, Spark, AWS, Azure Databricks and Databases**.  
 
 🎓 Pursed a **Master's Degree** in Computer Science.
 - 💻 I enjoy building **scalable applications** and **data pipelines**.
