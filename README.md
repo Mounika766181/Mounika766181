@@ -13,7 +13,7 @@ I'm a **Data Engineer | Cloud Enthusiast | Python Developer** passionate about b
 💡 **Fun Fact:**  
 I once optimized a Spark job that ran for 2 hours down to **15 minutes!**  
 
- 📬 You can reach me at davulurimounika22@gmail.com
+ 📬 You can reach me at mounika.work511@gmail.com
 
 # Main Technologies I Work With
 - **Programming:** Python, Scala, Java, Go
